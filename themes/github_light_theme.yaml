@@ -1,15 +1,15 @@
-# Theme based on Github
-# Creator: @einschmidt
+# Theme for eink displays, based on Github
+# Creator: @itobey - forked from @einschmidt
 #
 #
-Github Light Theme:
+EInk Theme:
   # Header:
   app-header-background-color: "#24292e"
   app-header-text-color: "#fafbfc"
   # Main Interface Colors
   primary-color: "#0366d6"
   light-primary-color: "var(--primary-color)"
-  primary-background-color: "#F6F8FA"
+  primary-background-color: "#FFF"
   secondary-background-color: "#fafbfc"
   divider-color: "#e1e4e8"
   accent-color: "#0366d6"
